@@ -1,0 +1,10 @@
+F:\Documents\Visual Studio 2015\Projects\PA_4_Gelyana_Vara_Temp\PA_4_Gelyana_Vara\PA_4_Gelyana_Vara\bin\Debug\PA_4_Gelyana_Vara.exe.config
+F:\Documents\Visual Studio 2015\Projects\PA_4_Gelyana_Vara_Temp\PA_4_Gelyana_Vara\PA_4_Gelyana_Vara\bin\Debug\PA_4_Gelyana_Vara.exe
+F:\Documents\Visual Studio 2015\Projects\PA_4_Gelyana_Vara_Temp\PA_4_Gelyana_Vara\PA_4_Gelyana_Vara\bin\Debug\PA_4_Gelyana_Vara.pdb
+F:\Documents\Visual Studio 2015\Projects\PA_4_Gelyana_Vara_Temp\PA_4_Gelyana_Vara\PA_4_Gelyana_Vara\obj\Debug\PA_4_Gelyana_Vara.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2015\Projects\PA_4_Gelyana_Vara_Temp\PA_4_Gelyana_Vara\PA_4_Gelyana_Vara\obj\Debug\PA_4_Gelyana_Vara.Form1.resources
+F:\Documents\Visual Studio 2015\Projects\PA_4_Gelyana_Vara_Temp\PA_4_Gelyana_Vara\PA_4_Gelyana_Vara\obj\Debug\PA_4_Gelyana_Vara.Properties.Resources.resources
+F:\Documents\Visual Studio 2015\Projects\PA_4_Gelyana_Vara_Temp\PA_4_Gelyana_Vara\PA_4_Gelyana_Vara\obj\Debug\PA_4_Gelyana_Vara.csproj.GenerateResource.Cache
+F:\Documents\Visual Studio 2015\Projects\PA_4_Gelyana_Vara_Temp\PA_4_Gelyana_Vara\PA_4_Gelyana_Vara\obj\Debug\PA_4_Gelyana_Vara.exe
+F:\Documents\Visual Studio 2015\Projects\PA_4_Gelyana_Vara_Temp\PA_4_Gelyana_Vara\PA_4_Gelyana_Vara\obj\Debug\PA_4_Gelyana_Vara.pdb
+F:\Documents\Visual Studio 2015\Projects\PA_4_Gelyana_Vara_Temp\PA_4_Gelyana_Vara\PA_4_Gelyana_Vara\obj\Debug\PA_4_Gelyana_Vara.csproj.CoreCompileInputs.cache
